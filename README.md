@@ -1,166 +1,140 @@
-# 🛡️ Mücahid Balcı
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mucahidbalci&label=Profil+Ziyaretleri&color=0e75b6&style=flat" alt="Profil Ziyaretleri" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Cybersecurity+Enthusiast;Building+Secure+%26+Scalable+Systems;Next.js+%7C+TypeScript+%7C+Node.js+%7C+Python" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <strong>15 Yaşında Tam Yığın Geliştirici & Siber Güvenlik Araştırmacısı</strong>
+  <img src="https://komarev.com/ghpvc/?username=mucahidbalci&label=Profil+Ziyaretleri&color=0e75b6&style=flat-square" alt="Profil Ziyaretleri" />
 </p>
 
 <p align="center">
-  <a href="https://mucahidbalci.github.io">🌐 Web Sitesi</a> •
-  <a href="https://guns.lo/mucah1d">🔫 guns.lo</a> •
-  <a href="https://github.com/mucahidbalci">💻 GitHub</a>
+  <a href="https://mucahidbalci.github.io">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-mucahidbalci.github.io-181717?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Web Sitesi" />
+  </a>
+  <a href="https://www.instagram.com/mucahidbalci">
+    <img src="https://img.shields.io/badge/📸_Instagram-@mucahidbalci-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:iletisim@mucahidbalci.github.io">
+    <img src="https://img.shields.io/badge/📧_İletişim-Email_Dm-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="İletişim" />
+  </a>
 </p>
 
 ---
 
-## 👋 Hakkımda
+## 👨‍💻 Hakkımda
 
-Merhaba! Ben **Mücahid Balcı**. 15 yaşında bir **Tam Yığın Geliştirici** ve **Siber Güvenlik Tutkunu**'yum.
+Merhaba! Ben **Mücahid Balcı**. 
 
-Küçük yaşımdan beri yazılım ve siber güvenlik dünyasına büyük bir ilgi duyuyorum. Özellikle **penetrasyon testleri**, **ağ zafiyet tarama**, **OSINT (Açık Kaynak İstihbarat)** ve **adli bilişim** alanlarında kendi araçlarımı geliştiriyorum. Python başta olmak üzere çeşitli dillerle projeler üretiyor, açık kaynak dünyasına katkıda bulunuyorum.
+Modern web teknolojilerini siber güvenlik prensipleriyle harmanlayarak; **güvenli, ölçeklenebilir, estetik ve yüksek performanslı** dijital çözümler üreten genç bir yazılım geliştiricisiyim. 
 
-> *"Güvenlik bir ürün değil, bir süreçtir."*
+Sadece "çalışan" kod yazmakla kalmıyor; aynı zamanda **CSRF, XSS, SQL Injection** gibi zafiyetlere karşı proaktif koruma mekanizmaları kurguluyor, kullanıcı deneyimini (UX) en üst düzeye taşıyan minimalist arayüzler tasarlıyorum. Yerel yapay zeka modellerini (Ollama) geliştirme süreçlerime entegre ederek, kod kalitesini ve geliştirme hızını maksimumda tutuyorum.
+
+> *"Güvenlik bir özellik değil, temeldir. Estetik ise kullanıcıyı içeri çeken kapıdır."*
 
 ---
 
-## 🛠️ Teknolojiler & Yetenekler
+## 🛠️ Teknoloji Yığınım (Tech Stack)
 
-### 💻 Programlama Dilleri
+### 🎨 Frontend & UI/UX
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
 </p>
 
-### 🔐 Siber Güvenlik
-- **Penetrasyon Testleri** (Sızma Testleri)
-- **Ağ Zafiyet Tarama** (Port Scanning, Vulnerability Assessment)
-- **OSINT** (Açık Kaynak İstihbarat Toplama)
-- **Adli Bilişim** (Digital Forensics)
-- **XSS Tespit & Analiz**
-- **Siber Tehdit İstihbaratı**
+### ⚙️ Backend & Database
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
 
-### 🌐 Web Geliştirme
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Python (Flask/Django)
-- **Full-Stack Geliştirme**
-- **Statik & Dinamik Web Analizi**
-
-### 🛡️ Araçlar & Platformlar
-- **Linux** (Kali Linux, Parrot OS)
-- **Git & GitHub**
-- **Nmap, Burp Suite, Metasploit**
-- **Wireshark**
-- **Docker**
+### 🚀 DevOps, Tools & Security
+<p align="left">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Ollama_AI-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+</p>
 
 ---
 
-## 📌 Öne Çıkan Projelerim
+## 🌟 Öne Çıkan Projelerim
 
-### 🔴 AutoReconX
-> Tüm Sistem Açıkları ve Zafiyetleri Taranan En Güçlü Etik Siber Güvenlik Platformu
+### 🛒 Modern & Güvenli E-Ticaret Altyapısı
+*Next.js, Node.js, PostgreSQL, Tailwind CSS*
+- Türk e-ticaret ekosistemine özel, yüksek performanslı ve SEO uyumlu altyapı.
+- **PayTR** ve **Ziraat Bankası Sanal POS** güvenli ödeme entegrasyonları.
+- **Gelişmiş Admin Paneli:** Gerçek zamanlı ziyaretçi analitiği (cihaz tipi, sayfa kalış süresi, scroll derinliği), ürün etkileşim takibi.
+- **Üst Düzey Güvenlik:** CSRF token, XSS sanitization ve SQL Injection koruma katmanları.
 
-Otomatik keşif ve zafiyet tarama yapabilen kapsamlı bir siber güvenlik platformu. Sistem açıklarını otomatik olarak tespit eder ve raporlar.
+### 🏢 Balcıoğlu Makina - Kurumsal Web & SEO
+*HTML5, CSS3, JavaScript, SEO*
+- Kurumsal web varlığı için profesyonel metadata ve yapısal veri (Structured Data) optimizasyonu.
+- Google Search Console doğrulama ve arama motoru görünürlüğünü maksimize edecek teknik SEO uygulamaları.
 
- [AutoReconX](https://github.com/mucahidbalci/AutoReconX) • 🐍 Python • ⭐ 1
+### 🛡️ AutoReconX & PyScanPro (Siber Güvenlik)
+*Python*
+- **AutoReconX:** Otomatik keşif ve sistem zafiyet tarama platformu.
+- **PyScanPro:** Özel alt yapılı, modern ağ zafiyet tarama (Port Scanner) ve analiz aracı.
+- **xss-tarayıcı:** Web uygulamalarındaki Cross-Site Scripting açıklarını otomatik tespit eden hafif ve etkili araç.
 
----
-
-### 🌐 PyWebClone
-> Sızma Testleri, OSINT ve Adli Bilişim Kapsamlı Web Klonlama & Analiz Aracı
-
-Hedef web sitelerinin statik mimarilerini, tüm varlıklarını ve dinamik içeriklerini klonlayarak penetrasyon testleri ve adli bilişim analizleri için hazır hale getirir.
-
-🔗 [PyWebClone](https://github.com/mucahidbalci/PyWebClone) • 🐍 Python • ⭐ 1
-
----
-
-### 🔍 PyScanPro
-> Modern ve Güçlü Ağ Zafiyet Tarama (Port Scanner) Yazılımı
-
-Sızıntı testleri, yerel ağ denetimleri ve siber güvenlik analizleri için geliştirilmiş, özel alt yapılı, modern ve güçlü bir port tarayıcı.
-
-🔗 [PyScanPro](https://github.com/mucahidbalci/PyScanPro) • 🐍 Python • ⭐ 1
+### 📦 Güvenli 3D Dosya Yönetim Sistemi
+*Next.js, Node.js*
+- Kullanıcıların `.stl` veya `.sldprt` gibi 3D model dosyalarını sıkıştırılmış formatta güvenli şekilde yükleyebildiği altyapı.
+- `.exe` ve potansiyel riskli dosya türlerinin sunucu tarafında (backend) kesin olarak engellenmesi.
 
 ---
 
-### 🕷️ xss-tarayıcı
-> Otomatik XSS (Cross-Site Scripting) Zafiyet Tarayıcı
+## 💡 Çalışma Prensiplerim
 
-Web uygulamalarındaki XSS açıklarını otomatik olarak tespit eden hafif ve etkili bir tarayıcı.
-
- [xss-tarayıcı](https://github.com/mucahidbalci/xss-tarayıcı) • 🌐 HTML • ⭐ 1
-
----
-
-### 🗺️ OpenRoute *(Yeni!)*
-> Açık kaynak rota ve ağ haritalama aracı.
-
-🔗 [OpenRoute](https://github.com/mucahidbalci/OpenRoute) • 🐍 Python •  17 Ekim 2026
+1. **Security by Design:** Her projede güvenlik varsayılan bir ayar olarak gelir, sonradan eklenen bir özellik değil.
+2. **Temiz & Modüler Mimari:** Okunabilir, sürdürülebilir, test edilebilir ve kolayca ölçeklenebilir kod yapısı (MVC, Component-based).
+3. **AI Destekli Verimlilik:** Yerel `qwen2.5-coder` modelleriyle kod üretimi ve titiz dosya bazlı code review süreçleri.
+4. **Minimalist Estetik:** Sadece işlevsel değil, aynı zamanda göze hitap eden, modern ve kullanıcı dostu arayüzler.
 
 ---
 
 ## 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mucahidbalci&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mucahidbalci&theme=radical" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mucahidbalci&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mucahidbalci&theme=radical&hide_border=true" alt="GitHub Streak" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mucahidbalci&layout=compact&theme=radical" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mucahidbalci&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="49%" />
 </p>
 
 ---
 
-## 📅 Katkı Grafiğim
+## 🎯 Gelecek Hedeflerim
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mucahidbalci&theme=react-dark" alt="Katkı Grafiği" />
-</p>
-
-> 📈 Geçen yıl **115 katkı** yaptım ve bu sayı her gün artıyor!
-
----
-
-## 🎯 Hedeflerim
-
-- [ ] Daha kapsamlı siber güvenlik araçları geliştirmek
-- [ ] Açık kaynak topluluğuna daha fazla katkıda bulunmak
-- [ ] CTF (Capture The Flag) yarışmalarında yer almak
-- [ ] Siber güvenlik sertifikaları almak (CEH, OSCP yolunda)
-- [ ] 100+ GitHub yıldızı toplamak ⭐
-- [ ] Kendi siber güvenlik blogumu yayınlamak
+- [ ] Geliştirdiğim e-ticaret altyapısını canlıya alıp gerçek kullanıcı trafiğiyle test etmek ve VPS ölçeklendirmesine geçmek.
+- [ ] Açık kaynak siber güvenlik araçlarıma daha fazla katkı almak ve topluluk tarafından aktif kullanılmasını sağlamak.
+- [ ] CTF (Capture The Flag) turnuvalarında derecelere girmek ve siber güvenlik sertifikasyon süreçlerini tamamlamak.
+- [ ] Web3 ve yapay zeka entegrasyonlu, yenilikçi projeler geliştirmek.
 
 ---
 
-## 🤝 İş Birliği & İletişim
+## 🤝 İletişim
 
-Siber güvenlik, web geliştirme veya herhangi bir proje için benimle iletişime geçmekten çekinmeyin!
+Bir proje fikriniz mi var, iş birliği yapmak mı istiyorsunuz veya sadece merhaba demek mi? Bana ulaşmaktan çekinmeyin!
 
 | Platform | Link |
 |----------|------|
-|  Web Sitesi | [mucahidbalci.github.io](https://mucahidbalci.github.io) |
-| 🔫 guns.lo | [guns.lo/mucah1d](https://guns.lo/mucah1d) |
-| 📧 GitHub | [github.com/mucahidbalci](https://github.com/mucahidbalci) |
-
----
-
-## 📜 Lisans
-
-Tüm projelerim açık kaynak ruhuyla geliştirilmektedir. Detaylar için her projenin kendi lisans dosyasına bakabilirsiniz.
+| 🌐 **Portfolio** | [mucahidbalci.github.io](https://mucahidbalci.github.io) |
+| 📸 **Instagram** | [@mucahidbalci](https://www.instagram.com/mucahidbalci) |
+| 💻 **GitHub** | [github.com/mucahidbalci](https://github.com/mucahidbalci) |
 
 ---
 
 <p align="center">
-  <strong>⚡ 15 yaşında, sınırsız merak ve tutkuyla kodluyorum. ⚡</strong>
+  <strong>⚡ Sınırsız merak ve tutkuyla kodluyorum. Geleceği birlikte inşa edelim. ⚡</strong>
 </p>
 
 <p align="center">
-  <em>© 2026 Mücahid Balcı — Tüm hakları saklıdır.</em>
+  <em>© 2026 Mücahid Balcı — <strong>Created by MucahidBalci</strong></em>
 </p>
